@@ -7,7 +7,7 @@ import './css/style.css'
 const teacher = new Teacher("Dominic", "Masters123");
 teacher.teach();
 
-const colors = ['red', 'green', 'blue'];
+const colors = ['red', 'green', 'fdsf'];
 const items = colors.map(color => <li>{color}</li>); //using `` can map those the html tag together?
 
 ReactDOM.render(<ol>{items}</ol>, document.getElementById('root'));
