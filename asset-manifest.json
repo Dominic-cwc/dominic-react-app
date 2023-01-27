@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dominic-react-app/static/css/main.1efad305.css",
+    "main.js": "/dominic-react-app/static/js/main.9c3da68a.js",
+    "index.html": "/dominic-react-app/index.html",
+    "main.1efad305.css.map": "/dominic-react-app/static/css/main.1efad305.css.map",
+    "main.9c3da68a.js.map": "/dominic-react-app/static/js/main.9c3da68a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1efad305.css",
+    "static/js/main.9c3da68a.js"
+  ]
+}
