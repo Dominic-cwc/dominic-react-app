@@ -4,7 +4,7 @@ import { Teacher } from './classes(11-13)/teacher';
 import './css/style.css'
 
 
-const teacher = new Teacher("Dominic", "Masters");
+const teacher = new Teacher("Dominic", "Masters123");
 teacher.teach();
 
 const colors = ['red', 'green', 'blue'];
