@@ -16,8 +16,8 @@ person.walk();
 const walk = person.walk.bind(person); //function in js are objects
 walk();
 
-//walk(); this is outside the scope of the object = undefined
-
+//walk(); stand alone function, this is window object reference
+//person.walk(); method, this is person object reference
 
 //Arrow functions
 //both same below
