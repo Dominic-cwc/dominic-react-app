@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dominic-react-app/static/css/main.1efad305.css",
-    "main.js": "/dominic-react-app/static/js/main.4c29e874.js",
+    "main.css": "/dominic-react-app/static/css/main.21ef1211.css",
+    "main.js": "/dominic-react-app/static/js/main.0f8182c5.js",
     "index.html": "/dominic-react-app/index.html",
-    "main.1efad305.css.map": "/dominic-react-app/static/css/main.1efad305.css.map",
-    "main.4c29e874.js.map": "/dominic-react-app/static/js/main.4c29e874.js.map"
+    "main.21ef1211.css.map": "/dominic-react-app/static/css/main.21ef1211.css.map",
+    "main.0f8182c5.js.map": "/dominic-react-app/static/js/main.0f8182c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1efad305.css",
-    "static/js/main.4c29e874.js"
+    "static/css/main.21ef1211.css",
+    "static/js/main.0f8182c5.js"
   ]
 }
