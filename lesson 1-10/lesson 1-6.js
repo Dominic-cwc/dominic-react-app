@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// let -> block
+//let -> block
 //const -> block/constant
+//var -> assessable anywhere in the function
 
 
 const person = {
